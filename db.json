@@ -1,0 +1,30 @@
+{
+  "country": [
+    {
+      "status": false,
+      "title": "India",
+      "description": "delhi",
+      "id": 1
+    },
+    {
+      "status": false,
+      "title": "India",
+      "description": "delhi",
+      "id": 2
+    }
+  ],
+  "city": [
+    {
+      "city": "Delhi",
+      "population": "3000000",
+      "countryName": "India",
+      "id": 1
+    },
+    {
+      "city": "gurugram",
+      "population": "150000",
+      "countryName": "India",
+      "id": 2
+    }
+  ]
+}
